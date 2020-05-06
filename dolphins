@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<!--this is my project. the thing i'm writing this inside is called a comment. this is for humans to read. if they want to read code.  I hope you enjoy. >.< -->
+
+<html>
+<style>
+       h2 {
+            color: rgb(219, 0, 0);
+        }   
+       
+       h4 {
+            color: rgb(0, 166, 255);
+            font-family:cursive;
+        }   
+         p {
+            color: rgb(8, 0, 230);
+            font-family:sans-sheriff;
+            text-align: center;
+            
+        }  
+         ul {
+            color: rgb(0, 148, 7);
+            background-color:rgb(255, 255, 0);
+            line-height: 1.5em;
+        } 
+         ol {
+            color: rgb(173, 164, 0);
+            font-family:monospace;
+            
+        }  
+        h1 { 
+            font-family: cursive;
+        }
+        
+        a{
+            color:rgb(0, 84, 148);
+            font-family:cursive;
+            
+        }
+        
+   </style>     
+    <head>
+       
+        <meta charset="utf-8">
+        
+        <title>My Project</title>
+        
+        <h1 id = "hi">Dolphins</h1>
+    
+        
+    </head>
+    
+    <body>
+<H2 id = "table of contents">Table of contents</H2>
+
+<li><a href="#table of contents">Table Of Contents</a></li>
+            <li><a href = "#random facts">Random facts</a></li><li><a href = "#dangers">Dangers To Dolphins</a></li><li><a href = "#you">What you can do</a></li>
+
+<h4 id = "random facts">Random Facts</h4>
+<ul>      
+<!-- all from the dolphins group slides. -->
+         <li>Dolphins are carnivores (meat eaters).Fish, squid and crustaceans are included in their list of prey.</li>
+         <li>Because dolphins are mammals, they need to come to the surface of the water to breathe.<li>
+         the length of life depends on the type of dolphin.
+         <li> Dolphins use a blowhole on top of their heads to breathe.
+<li>
+         Dolphins give birth to their young tail first. They’re the only mammals known to do this.<li>orcas are a type of dolphins<li>Orcas have the second heaviest brain amongst marine animals<li>Spyhopping is a behaviour in which a whale holds its head above water to view its surroundings.<li> An orca is not a whale.<li>How did the Killer Whale get its name? This is because it separates baby whales from their pods and eats them!<li>Surprisingly dolphins actually shed their skins, just like a snake. Wow. But it also helps to get rid of algae and bacteria that can cling to their skins.
+<li>it is common for dolphin pods to care for their injured, old and sick members. There are even stories of dolphins coming to the aid of humans in dire time of need.
+<li>some fishing methods, such as the use of nets, kill a large number of dolphins every year.
+
+
+
+ </ul>  
+   
+     
+     <!--this is how to make a list.-->
+     <H4 id = "dangers">Dangers to dolphins</H4>
+           <ol>
+           <li> fishing nets: hundreds of dolphin deaths are caused by fishing nets. <li>climate change: climate change harms all living creatures<li> being captured : whenever any dolphins are captured they get stressed.and get drugged</ol>
+
+
+
+<h4 id = "you">What you can do.</h4>  <!--<h4> = heading 4-->
+<p>you have seen everything. you know whats wrong.you know who it affects. you know how it happened.Now.its time for <strong>YOU</strong> to help.adopt.donate.fundraise. all at</p><a target="_blank" href="https://uk.whales.org/">this site
+        </a>  
+     
+     
+     <br><br><br><a target="_blank" href="https://uk.whales.org/">more about dolphins 
+        </a> 
+        
+         
+         
+         <br><a href="https://docs.google.com/document/d/1vUbJI2K18EwsOSSWUz3zC_kQtQKIh3BMCvgHfqNsZCU/view">dolphin pictures</a>
+      <br><br><br><br> <a href="#hi">go to top</a>
+    </body>
+</html>
